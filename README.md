@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm 🚀 Jayaram Kumarapu</h1>
-<h3 align="center">Machine Learning Engineer | Full-Stack Developer | AI & Data Science Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | LLMs • RAG • GNNs • Agentic AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/jayimf432">
@@ -21,32 +21,38 @@
 
 ## 🚀 About Me
 
-👋 Hi there! I'm **Jayaram Kumarapu**, a **Machine Learning Engineer** and **Full-Stack Developer** passionate about **AI, Deep Learning, and Scalable Web Applications.**  
-I specialize in **building intelligent systems, optimizing ML models, and developing cloud-based solutions.**  
+👋 Hi! I'm **Jayaram Kumarapu**, a **Machine Learning Engineer** passionate about  
+**large language models (LLMs), retrieval-augmented generation (RAG), graph neural networks (GNNs), and agentic AI systems**.
 
-💡 **What Drives Me?**  
-I love solving **real-world problems with AI & Data Science**—whether it's creating ML-powered insights, **automating workflows**, or **deploying scalable applications.**  
-I'm constantly learning and experimenting with **cutting-edge technologies** to push the boundaries of innovation.  
+I specialize in **fine-tuning transformers, building scalable ML pipelines, and deploying real-world AI solutions** across healthcare, life sciences, finance, and sustainability.  
+With a strong foundation in **PyTorch, Hugging Face, LangChain, AutoGen, and distributed ML**, I love working on the edge of innovation.
+
+---
 
 ## 🔥 What I'm Currently Working On
-- 🚀 **Scalable AI-Driven E-Commerce Platform** – Microservices-based system with **GraphQL, PostgreSQL, Redis, and AWS Lambda**  
-- 🤖 **QuizzieBot** – AI-powered **automated quiz generator** using **LLMs & React Native**  
-- 🏗️ **Exploring Java Spring Boot** for backend microservices & cloud deployments  
 
-## ⚡ Tech Stack & Skills
-🚀 **Programming:** Python, Java, JavaScript, C++, TypeScript  
-📊 **Machine Learning & AI:** TensorFlow, PyTorch, Scikit-Learn, OpenCV, NLP, Computer Vision  
-🖥️ **Full-Stack Development:** React.js, Node.js, FastAPI, Django, Flask  
-☁️ **Cloud & DevOps:** AWS (Lambda, EC2, SageMaker, S3), Docker, Kubernetes, CI/CD  
-🛠️ **Databases & Big Data:** PostgreSQL, MongoDB, MySQL, Redis, Apache Spark  
+- 🤖 **RAG-Powered Biomedical Knowledge System** – Combining LLMs + biomedical datasets for intelligent discovery  
+- 🕸️ **GNN-Enhanced Molecular Network Predictions** – Using graph neural networks for bioinformatics insights  
+- ⚡ **Agentic AI Prototypes** – Multi-agent LangChain + AutoGen pipelines for automated decision-making and reasoning
+
+---
+
+## ⚡ Tech Stack & Tools
+
+🚀 **Core ML/AI:** PyTorch, TensorFlow, Hugging Face Transformers, LangChain, AutoGen, Ray, PyTorch Lightning  
+🛠️ **Domains:** LLMs, RAG Pipelines, GNNs, Agentic AI, NLP, Knowledge Graphs  
+☁️ **Infrastructure:** Kubernetes, AWS SageMaker, Weights & Biases, Docker, CI/CD  
+📊 **Data Engineering:** Apache Spark, Airflow, Pandas, SQL, NoSQL
+
+---
 
 ## 📬 Let's Connect!
+
 - 💼 **[LinkedIn](https://linkedin.com/in/jayaramkumarapu-i4m3f2)**
 - 🐦 **[Twitter](https://twitter.com/jayimf432)**
 - 📧 **jayimf432@gmail.com**
 
 ---
-💡 **"Code. Innovate. Scale."**  
-Let's collaborate and build something amazing! 🚀  
 
-
+💡 **"Innovate with AI. Scale with Engineering. Impact the world."**  
+Let’s collaborate and build something transformative! 🚀
